@@ -1,0 +1,13 @@
+# The game itself is delivered as a GitHub Release asset (too big for the repo)
+Drag'n Wash/
+_Redist/
+*.zip
+.setup_done
+
+# junk
+*.pdb
+.claude/
+**/.claude/
+Thumbs.db
+desktop.ini
+.DS_Store
